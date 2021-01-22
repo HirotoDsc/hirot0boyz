@@ -1,6 +1,6 @@
 ! [ Youtube Badge ] (https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCRhKK6VrlSnlWPJjYxBPKnA/videos ) ! [ Linkedin Badge ] (https://img.shields.io/badge/-Hirotooz-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)! [ GitHub ] (https://img.shields.io/badge / -GitHub-black? Style = flat-square & logo = github)
 
-### Olá! Bem-vindo ao perfil do Hiroto. <img src = "https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width = "28px" alt = "hi">
+### Olá! Bem-vindo ao perfil do Hiroto. <img src = "https://cdn.discordapp.com/attachments/750576652290883584/800922070635642900/733558500575281204.gif" width = "28px" alt = "hi">
 
 ##### Bem, muitos que não me conhecem. Prazer, sou Hiroto, sou apenas um estudante de engenharia.
 
