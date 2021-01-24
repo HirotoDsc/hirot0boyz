@@ -15,19 +15,6 @@
 #
 
 
-
-###  Listening while playing. <img src = "https://cdn.discordapp.com/attachments/750576652290883584/796410290484805642/fogorainbow_midnight.gif" height = "30px" width = "30px" />  
-
-! [ Spotify ] (https://now-playing-codestackr.vercel.app/api/spotify-playing)] (https://open.spotify.com/user/Hirot0boyz)
-#
-
-<details style = 'text-align: center;' align = 'center'> <summary> Sobre </summary>
-#
-! [ Estatísticas do github de Anurag ] (https://github-readme-stats.vercel.app/api?username=Hirotooz&show_icons=true&theme=radical)
-</details>
-
-#
-
 <img align = "right" alt = "GIF" height = "400" width = "800" src = "https://github.com/hirot0boyz/image/blob/main/tumblr_psa72bs62w1upcvga_540.gif" /> <br>
 
-###### 私 も あ な た が 嫌 嫌 い で す が 、 あ な た の よ う に 見 せ よ う う し て 時間 時間 を 無 駄 に し た く あ あ り う せ ん ん。
+
